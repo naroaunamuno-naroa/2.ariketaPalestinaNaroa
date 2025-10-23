@@ -4,12 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Sarrera</title>
-    <style>
-        body { font-family: Arial, sans-serif; }
-        body {background-color: rgb(184, 232, 172);}
-        h1 { color: #003366; }
-        nav a { margin-right: 10px; font-weight: bold; text-decoration: none; color: #0056b3; }
-    </style>
 </head>
 <body>
     <h1><span: style="color: crimson;">Palestina</span:></h1>
